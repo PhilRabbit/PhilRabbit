@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Philippe Rabbat 👋
 
 🎮 **Game Developer | Computer Scientist | Tech Enthusiast**
 
