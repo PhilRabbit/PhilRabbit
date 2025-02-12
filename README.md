@@ -13,7 +13,7 @@ Here's a bit about me:
 ## 🌟 Projects
 - **[Ray Tracer](https://github.com/PhilRabbit/ray-tracer):** Simulates realistic lighting with reflections and shadows.
 - **[Dating App](https://github.com/PhilRabbit/dating-app):** Mobile app with real-time chat and profile matching.
-- **[Unity Game](https://github.com/PhilRabbit/web-game):** Unity based Harry Potter Quidditch game with AI for each role.
+- **[Unity Game]([https://github.com/PhilRabbit/web-game](https://github.com/PhilRabbit/Quidditch)):** Unity based Harry Potter Quidditch game with AI for each role.
 
 ## 🎓 Certifications
 - Ubisoft Certification in Game Development
