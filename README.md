@@ -11,7 +11,7 @@ Here's a bit about me:
 - **Tools:** Git, Blender, Visual Studio, Firebase, Android Studio
 
 ## 🌟 Projects
-- **[Ray Tracer](https://github.com/PhilRabbit/ray-tracer):** Simulates realistic lighting with reflections and shadows.
+- **[Ray Tracer](https://github.com/PhilRabbit/RayTracer/tree/main):** Simulates realistic lighting with reflections and shadows.
 - **[Dating App](https://github.com/PhilRabbit/dating-app):** Mobile app with real-time chat and profile matching.
 - **[Unity Game](https://github.com/PhilRabbit/Quidditch):** Unity based Harry Potter Quidditch game with AI for each role.
 
