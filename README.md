@@ -12,7 +12,8 @@ Here's a bit about me:
 
 ## 🌟 Projects
 - **[Ray Tracer](https://github.com/PhilRabbit/RayTracer/tree/main):** Simulates realistic lighting with reflections and shadows.
-- **[Dating App](https://github.com/PhilRabbit/dating-app):** Mobile app with real-time chat and profile matching.
+- **[Dating App](https://github.com/PhilRabbit/Locked):** Mobile app with real-time chat and profile matching.
+ 🔒 *Private Repository* – Access is available upon request. Please email me at **[philippe.rabbat.pr@gmail.com]** if you'd like to review the code.
 - **[Unity Game](https://github.com/PhilRabbit/Quidditch):** Unity based Harry Potter Quidditch game with AI for each role.
 
 ## 🎓 Certifications
